@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.sha</groupId>
 	<artifactId>demo-maven</artifactId>
-	<version>${revision}</version>
+	<version>0.0.2</version>
 	<packaging>pom</packaging>
 	<name>demo-maven</name>
 	<description>Demo project for Spring Boot</description>

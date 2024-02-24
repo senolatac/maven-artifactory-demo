@@ -6,6 +6,8 @@ Common spring-boot-components on your other projects.
 mvn clean deploy -Drevision='1.0.0' -f pom.xml --settings settings.xml
 ```
 
+Note: `${revision}` placeholder doesn't work so update versions one by one.
+
 ### Import it from your project
 ```
 <repositories>
